@@ -15,7 +15,6 @@ df = pd.DataFrame({
 df
 
 
-# In[4]:
 
 
 import yfinance as yf
